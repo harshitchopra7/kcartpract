@@ -5,8 +5,9 @@ import Header from './Header';
 import Home from './Home';
 import Mobiles from './Mobiles/Mobiles';
 import Televisions from './Televisions/Televisions';
-import 'tachyons';
 import LargeAppliances from './LargeAppliances/LargeAppliances';
+import Fashion from './Fashion/Fashion';
+import 'tachyons';
 
 function App() {
   return (
@@ -24,6 +25,10 @@ function App() {
           <Route path="/large-appliances"> 
             <Header />
             <LargeAppliances />
+          </Route>
+          <Route path="/fashion">
+            <Header />
+            <Fashion />
           </Route>
           <Route path="/checkout">
             <Header />

@@ -1,27 +1,27 @@
 import React from 'react';
-import './LargeAppliancesComponent.css';
+import './FashionComponent.css';
 
-function LargeAppliancesComponent ({ id, image, name, capacity, type, star, voltage, installation, weight, price, color }) {
+function FashionComponent ({ id, image, name, category, type, typeofcategory, attribute, sizeissue, size, price, color }) {
     return (
         <div className="a-row center">
             <div className="aligning">
                 <div className="description tc">
                     <h1>{name}</h1>
                     <div className="f4">
-                        <p>Capacity {capacity}</p>
+                        <p>Category: {category}</p>
                     </div>     
                 </div>
                 <div className="more-description tc center mt4">
                     <p>Type: {type}</p>
-                    <p>Efficiency: {star} Star</p>
-                    <p>Voltage= {voltage} Volts</p>
+                    <p>{typeofcategory}</p>
+                    <p>{attribute}</p>
                 </div>
                 <div className="center mt3">
-                    <img src={image} alt="" width="200px"/>
+                    <img src={image} alt="" width="200px" height="140px"/>
                 </div>
                 <div className="more-description center tc mt4">
-                    <p>Installation Type: {installation}</p>
-                    <p>Weight: {weight} grams</p>
+                    <p>{sizeissue}</p>
+                    <p>Size: {size}</p>
                     <p>Color: {color}</p>
                 </div>
                 <div className="price center tc b ml4 mt4">
@@ -32,5 +32,4 @@ function LargeAppliancesComponent ({ id, image, name, capacity, type, star, volt
         </div>
     );
 }
-export default LargeAppliancesComponent;      
-
+export default FashionComponent;   
