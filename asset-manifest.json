@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kcartpract/static/css/main.efc66221.chunk.css",
+    "main.js": "/kcartpract/static/js/main.c1a5a4f9.chunk.js",
+    "main.js.map": "/kcartpract/static/js/main.c1a5a4f9.chunk.js.map",
+    "runtime-main.js": "/kcartpract/static/js/runtime-main.ffd6d2ff.js",
+    "runtime-main.js.map": "/kcartpract/static/js/runtime-main.ffd6d2ff.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/kcartpract/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2a66dffb.chunk.js": "/kcartpract/static/js/2.2a66dffb.chunk.js",
+    "static/js/2.2a66dffb.chunk.js.map": "/kcartpract/static/js/2.2a66dffb.chunk.js.map",
+    "index.html": "/kcartpract/index.html",
+    "precache-manifest.1da889cf160da2dd3ede429487f31ddb.js": "/kcartpract/precache-manifest.1da889cf160da2dd3ede429487f31ddb.js",
+    "service-worker.js": "/kcartpract/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/kcartpract/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.efc66221.chunk.css.map": "/kcartpract/static/css/main.efc66221.chunk.css.map",
+    "static/js/2.2a66dffb.chunk.js.LICENSE.txt": "/kcartpract/static/js/2.2a66dffb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd6d2ff.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2a66dffb.chunk.js",
+    "static/css/main.efc66221.chunk.css",
+    "static/js/main.c1a5a4f9.chunk.js"
+  ]
+}
