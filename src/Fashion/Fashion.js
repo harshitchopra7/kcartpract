@@ -14,7 +14,7 @@ function LargeAppliances () {
                 attribute="With Laces"
                 sizeissue="Runs true to its size"
                 size="7 UK, 9 UK, 10 UK, 11 UK"
-                color="White, Black, Yellow"
+                color="Black"
                 price="7,000"
             />
             <FashionComponent 
@@ -27,7 +27,7 @@ function LargeAppliances () {
                 attribute="Dryfit"
                 sizeissue="Runs true to its size"
                 size="S, M, L, XL, XXL"
-                color="Maroon, Blue, White"
+                color="Maroon"
                 price="1,500"
             />
             <FashionComponent 
@@ -40,7 +40,7 @@ function LargeAppliances () {
                 attribute="With Laces"
                 sizeissue="Runs one size larger"
                 size="5 UK, 6 UK, 7 UK, 9 UK"
-                color="White, Pink"
+                color="Pink"
                 price="5,000"
             />
             <FashionComponent 
@@ -53,7 +53,7 @@ function LargeAppliances () {
                 attribute="100% Cotton"
                 sizeissue="Elastic adjustment"
                 size="Free Size"
-                color="Nave, Maroon"
+                color="Navy"
                 price="1,200"
             />
             <FashionComponent 

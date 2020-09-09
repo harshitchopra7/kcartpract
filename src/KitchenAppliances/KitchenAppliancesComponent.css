@@ -1,0 +1,11 @@
+.aligning{
+    display: flex;
+    margin-top: 10px;
+    padding: 5px;
+    margin-left: 35px;
+}
+button{
+    background-color: #FF7F50;
+    border-radius: 4px;
+    cursor: pointer;
+}

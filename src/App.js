@@ -7,7 +7,9 @@ import Mobiles from './Mobiles/Mobiles';
 import Televisions from './Televisions/Televisions';
 import LargeAppliances from './LargeAppliances/LargeAppliances';
 import Fashion from './Fashion/Fashion';
+import Sports from './Sports/Sports';
 import 'tachyons';
+import KitchenAppliances from './KitchenAppliances/KitchenAppliances';
 
 function App() {
   return (
@@ -29,6 +31,14 @@ function App() {
           <Route path="/fashion">
             <Header />
             <Fashion />
+          </Route>
+          <Route path="/sports&fitness">
+            <Header />
+            <Sports />
+          </Route>
+          <Route path="/kitchen-appliances">
+            <Header />
+            <KitchenAppliances />  
           </Route>
           <Route path="/checkout">
             <Header />
